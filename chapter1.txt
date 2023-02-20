@@ -1,3 +1,7 @@
 This is chapter 1 of my Story :)
 
+<<<<<<< HEAD
 This is the change added in Master branch
+=======
+Aien-Plot Modification
+>>>>>>> alien-plot
